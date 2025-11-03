@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+    margin: 80px;
+}
+a{
+    text-align: right;
+    padding: 20px;
+}
+a:hover{
+    color: red;
+}

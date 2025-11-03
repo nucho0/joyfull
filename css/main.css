@@ -1,0 +1,22 @@
+h1
+{
+    color: aquamarine;
+    font-size: 50px;
+    text-shadow: 4px 4px 8px grey;
+}
+button{
+    background-color: red;
+    color: white;
+    width: 180px;
+    padding: 20px;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+img{
+    width: 350px;
+    height:300px;
+}
+button:hover{
+    background-color: aqua;
+    color: red;
+}

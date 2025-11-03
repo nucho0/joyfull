@@ -1,0 +1,47 @@
+form{
+    background-color: #4CAF50;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 12px gray;
+    color: white;
+}
+legend{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+}
+input[type="text"], input[type="email"], input[type="password"],
+input[type="date"], input[type="tel"], input[type="datetime-local"],input[type="message"] {
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    padding-left: 10px;
+    margin-top: 10px;
+
+
+}
+
+button {
+height: 40px;
+width: 100px;
+border-radius: 20px;
+border: none;
+background-color: aqua;
+color: black;
+font-size: 20px;
+cursor: pointer;
+
+}
+button:hover {
+    background-color: gray;
+    color: red;
+}
+body{
+    background-image: url("../assets/6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
